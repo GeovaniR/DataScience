@@ -69,9 +69,3 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)
 
 [Process Mining](https://www.coursera.org/learn/process-mining)
-
-### Order of the classes
-
-Some courses can be taken in parallel, while others must be taken sequentially. All of the courses within a topic should be taken in the order listed in the curriculum. The graph below demonstrates how topics should be ordered.
-
-![Topic Progression Graph](topic_progression_graph.jpg)
